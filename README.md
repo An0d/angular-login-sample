@@ -1,9 +1,9 @@
 # Login Sample
 
-`Username : test
+`Username : test<br/>
 Password : test`
 
-If you are not authenticated and try to navigate to `http://localhost:4200/feature1` or `http://localhost:4200/feature2`
+If you are not authenticated and try to navigate to `http://localhost:4200/feature1` or `http://localhost:4200/feature2`<br/>
 you will be redirect to `http://localhost:4200/login`
 
 
