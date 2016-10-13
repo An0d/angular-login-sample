@@ -1,4 +1,14 @@
-# LoginSample
+# Login Sample
+
+Username : test
+Password : test
+
+If you are not authenticated and try to navigate to http://localhost:4200/feature1 or http://localhost:4200/feature2
+you will be redirect to http://localhost:4200/login
+
+
+
+# Angular-CLI
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
 
